@@ -1,3 +1,6 @@
 [submodule "book-service"]
 	path = book-service
 	url = http://github.com/TheFlies/book-service.git
+[submodule "web-client"]
+	path = web-client
+	url = https://github.com/TheFlies/web-client
