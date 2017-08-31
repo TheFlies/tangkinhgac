@@ -4,3 +4,6 @@
 [submodule "web-client"]
 	path = web-client
 	url = https://github.com/TheFlies/web-client
+[submodule "config-service"]
+	path = config-service
+	url = https://github.com/TheFlies/config-service.git
