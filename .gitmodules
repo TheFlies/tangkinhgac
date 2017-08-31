@@ -7,3 +7,6 @@
 [submodule "config-service"]
 	path = config-service
 	url = https://github.com/TheFlies/config-service.git
+[submodule "discovery-service"]
+	path = discovery-service
+	url = https://github.com/TheFlies/discovery-service.git
